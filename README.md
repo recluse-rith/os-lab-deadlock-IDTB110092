@@ -30,10 +30,10 @@ This deadlock occurs because I am holding Lock B while waiting for Lock A, while
 
 
 ###pic8
-![pic8](pic8.png)
+![pic8](pic8.jpg)
 
 ###pic9
-![pic9](pic9.png)
+![pic9](pic9.jpg)
 
 ###pic10
-![pic10](pic10.png)
+![pic10](pic10.jpg)
