@@ -9,9 +9,6 @@
 ![pic1](pic1.png)
 The df -h output confirms that the .img files have been successfully associated with loop devices and mounted as functional filesystems. This proves the OS is treating these virtual disk images as independent storage hardware, allowing for isolated resource locking.
 
-###pic2
-![pic2](pic2.png)
-
 ###pic3 
 ![pic3](pic3.png)
 
