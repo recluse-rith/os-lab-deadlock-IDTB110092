@@ -21,8 +21,6 @@ The stuck processes
 ![pic4](pic4.png)
 This deadlock occurs because I am holding Lock B while waiting for Lock A, while my partner holds Lock A and waits for Lock B, creating a Circular Wait. This simulates a DDoS attack by showing how a user can indefinitely freeze shared system resources, preventing others from completing their tasks.
 
-###pic5
-![pic5](pic5.png)
 
 ###pic6
 ![pic6](pic6.png)
